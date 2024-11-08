@@ -1,0 +1,57 @@
+
+@use 'hero';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$backgroundColor: #040714;
+$principalTextColor: silver;
+$secondaryTextColor: #f9f9f9;
+
+body {
+    background-color: $backgroundColor;
+}
+
+@mixin text($fontSize: 16px) {
+    font-size: $fontSize;
+    line-height: $fontSize + 10px;
+    color: $principalTextColor;
+}
+
+@mixin title($fontSize: 28px) {
+    @include text($fontSize);
+    color: $secondaryTextColor;
+}
+
+.text--big {
+    @include text(18px);
+}
+
+.text {
+    @include text;
+}
+
+.text--small {
+    @include text(12px);
+}
+
+.title--big {
+    @include title(44px);
+}
+
+.title {
+    @include title(40px);
+}
+
+.title--small {
+    @include title(28px);
+}
+
+.link-text {
+    @include text(18px);
+    color: $secondaryTextColor;
+    text-decoration: underline;
+}
