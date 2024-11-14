@@ -73,7 +73,9 @@ body {
 }
 
 .button {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100%;
     height: 60px;
     font-size: 18px;
@@ -84,13 +86,29 @@ body {
     text-decoration: none;
     padding: 8px 14px;
     letter-spacing: 1px;
+    border: 1px solid variaveis.$primaryButtonColor;
+
+    &:hover {
+        background-color: lighten(variaveis.$primaryButtonColor, 3%);
+    }
 
     &--secondary {
         background-color: variaveis.$secondaryButtonColor;
+        border-color: variaveis.$secondaryButtonColor;
+
+        &:hover {
+            background-color: lighten(variaveis.$secondaryButtonColor, 3%);
+        }
     }
 
     &--dark {
         background-color: rgba(variaveis.$darkButtonColor, 0.8);
+        border-color: variaveis.$secondaryTextColor;
+    
+        &:hover {
+            background-color: variaveis.$secondaryTextColor;
+            color: variaveis.$backgroundColor;
+        }
     }
 }
 
