@@ -1,5 +1,6 @@
 
-# Projeto Clone da Landing Page do Disney+ 📺 ![](https://i.pinimg.com/originals/5c/92/46/5c9246d71e8bcf0656fa8475b767c6ab.gif)
+![](https://i.pinimg.com/originals/5c/92/46/5c9246d71e8bcf0656fa8475b767c6ab.gif)
+# Projeto Clone da Landing Page do Disney+ 📺 
 
 ### 📚 Este projeto consiste em um clone da página inicial do site de streaming Disney+. Durante o desenvolvimento deste projeto, tive a oportunidade de aprimorar minhas habilidades e obter os seguintes benefícios:
 
