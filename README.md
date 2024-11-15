@@ -1,7 +1,7 @@
 
-# Projeto Clone da Landing Page do Disney+
+# Projeto Clone da Landing Page do Disney+ 📺
 
-Este projeto consiste em um clone da página inicial do site de streaming Disney+. Durante o desenvolvimento deste projeto, tive a oportunidade de aprimorar minhas habilidades e obter os seguintes benefícios:
+### 📚 Este projeto consiste em um clone da página inicial do site de streaming Disney+. Durante o desenvolvimento deste projeto, tive a oportunidade de aprimorar minhas habilidades e obter os seguintes benefícios:
 
 - Compreendi a estrutura do projeto;
 - Configurei um ambiente de desenvolvimento;
@@ -37,9 +37,9 @@ Este projeto consiste em um clone da página inicial do site de streaming Disney
 
 ---
 
-# Disney+ Landing Page Clone Project
+# Disney+ Landing Page Clone Project 📺
 
-This project is a clone of the Disney+ streaming site’s homepage. Throughout this project, I enhanced my skills and gained the following benefits:
+### 📚 This project is a clone of the Disney+ streaming site’s homepage. Throughout this project, I enhanced my skills and gained the following benefits:
 
 - Understood the project structure;
 - Set up a development environment;
