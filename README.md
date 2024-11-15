@@ -1,5 +1,5 @@
 
-# Projeto Clone da Landing Page do Disney+ 📺
+# Projeto Clone da Landing Page do Disney+ 📺 ![](https://i.pinimg.com/originals/5c/92/46/5c9246d71e8bcf0656fa8475b767c6ab.gif)
 
 ### 📚 Este projeto consiste em um clone da página inicial do site de streaming Disney+. Durante o desenvolvimento deste projeto, tive a oportunidade de aprimorar minhas habilidades e obter os seguintes benefícios:
 
@@ -73,3 +73,6 @@
 - Learned to apply responsive styles using CSS;
 - Practiced deploying a web project.
 
+# TOOLS
+
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img align="center" alt="html:5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="center" alt="css:3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img align="center" alt="saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
